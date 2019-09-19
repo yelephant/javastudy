@@ -9,7 +9,7 @@ public class Day01Demo {
     }
     public void getarrays(int[] scores){
         Arrays.sort(scores);
-        int count=1
-        for(int i=scores.length-1;)
+        int count=1;
+        for(int i=scores.length-1;);
     }
 }
